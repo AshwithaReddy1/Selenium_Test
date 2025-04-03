@@ -28,7 +28,7 @@ This file documents bugs and usability issues found while testing the feature fl
 | **Severity** | Medium (usability issue; unexpected download prompt can disrupt user experience) |
 | **Priority** | Medium (not a critical failure, but impacts user experience, especially on mobile) |
 | **Environment** | Chrome browser, Windows OS (desktop), https://linqapp.com/ashu_reddy?r=link |
-| **Screenshot** | [Screenshot of the browser save prompt; screenshot of the success modal after canceling] |
+
 
 
 ## Bug 3: Name Field Accepts All Characters Including Invalid Ones
